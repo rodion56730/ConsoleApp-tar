@@ -1,0 +1,8 @@
+src/test/TestFiles/actual/1.txt 3
+expected text here
+la-la
+bla-bla
+src/test/TestFiles/actual/2.txt 3
+expected text 2 here
+some
+new text

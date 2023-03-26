@@ -1,0 +1,3 @@
+expected text here
+la-la
+bla-bla

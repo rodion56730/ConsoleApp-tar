@@ -1,0 +1,3 @@
+expected text 2 here
+some
+new text
